@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\Projects\\Gravitas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Projects\\Gravitas\\Assets\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Projects\\Gravitas\\Assets\\GravityController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\GravityController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Projects\\Gravitas\\Assets\\PickUp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PickUp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Projects\\Gravitas\\Assets\\MenuManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\MenuManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Projects\\Gravitas\\Assets\\StartGame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\StartGame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Projects\\Gravitas\\Assets\\GameOver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\GameOver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Projects\\Gravitas\\Assets\\CameraPivot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\CameraPivot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Projects\\Gravitas\\Assets\\CameraRigController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\CameraRigController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Projects\\Gravitas\\Assets\\HologramPreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\HologramPreview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Projects\\Gravitas\\Assets\\DestroyPlatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DestroyPlatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Projects\\Gravitas\\Assets\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Projects\\Gravitas\\Assets\\ThirdPersonCameraController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\ThirdPersonCameraController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Projects\\Gravitas\\Assets\\Timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Projects\\Gravitas\\Assets\\scoreManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scoreManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Projects\\Gravitas\\Assets\\ScaleAnimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\ScaleAnimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Projects\\Gravitas\\Assets\\Rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Rotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PickUp.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\Gravitas\\Assets\\PickUp.cs",
+              "RelativeDocumentMoniker": "Assets\\PickUp.cs",
+              "ToolTip": "D:\\Unity\\Projects\\Gravitas\\Assets\\PickUp.cs",
+              "RelativeToolTip": "Assets\\PickUp.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T03:03:09.388Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CameraPivot.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\Gravitas\\Assets\\CameraPivot.cs",
+              "RelativeDocumentMoniker": "Assets\\CameraPivot.cs",
+              "ToolTip": "D:\\Unity\\Projects\\Gravitas\\Assets\\CameraPivot.cs",
+              "RelativeToolTip": "Assets\\CameraPivot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T08:34:55.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CameraRigController.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\Gravitas\\Assets\\CameraRigController.cs",
+              "RelativeDocumentMoniker": "Assets\\CameraRigController.cs",
+              "ToolTip": "D:\\Unity\\Projects\\Gravitas\\Assets\\CameraRigController.cs",
+              "RelativeToolTip": "Assets\\CameraRigController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T08:34:02.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartGame.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\Gravitas\\Assets\\StartGame.cs",
+              "RelativeDocumentMoniker": "Assets\\StartGame.cs",
+              "ToolTip": "D:\\Unity\\Projects\\Gravitas\\Assets\\StartGame.cs",
+              "RelativeToolTip": "Assets\\StartGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T07:14:41.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\Gravitas\\Assets\\MenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\MenuManager.cs",
+              "ToolTip": "D:\\Unity\\Projects\\Gravitas\\Assets\\MenuManager.cs",
+              "RelativeToolTip": "Assets\\MenuManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T05:21:12.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ScaleAnimation.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\Gravitas\\Assets\\ScaleAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\ScaleAnimation.cs",
+              "ToolTip": "D:\\Unity\\Projects\\Gravitas\\Assets\\ScaleAnimation.cs",
+              "RelativeToolTip": "Assets\\ScaleAnimation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T04:17:17.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "scoreManager.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\Gravitas\\Assets\\scoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scoreManager.cs",
+              "ToolTip": "D:\\Unity\\Projects\\Gravitas\\Assets\\scoreManager.cs",
+              "RelativeToolTip": "Assets\\scoreManager.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T03:06:27.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Timer.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\Gravitas\\Assets\\Timer.cs",
+              "RelativeDocumentMoniker": "Assets\\Timer.cs",
+              "ToolTip": "D:\\Unity\\Projects\\Gravitas\\Assets\\Timer.cs",
+              "RelativeToolTip": "Assets\\Timer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T02:58:31.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Rotate.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\Gravitas\\Assets\\Rotate.cs",
+              "RelativeDocumentMoniker": "Assets\\Rotate.cs",
+              "ToolTip": "D:\\Unity\\Projects\\Gravitas\\Assets\\Rotate.cs",
+              "RelativeToolTip": "Assets\\Rotate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T02:19:16.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DestroyPlatform.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\Gravitas\\Assets\\DestroyPlatform.cs",
+              "RelativeDocumentMoniker": "Assets\\DestroyPlatform.cs",
+              "ToolTip": "D:\\Unity\\Projects\\Gravitas\\Assets\\DestroyPlatform.cs",
+              "RelativeToolTip": "Assets\\DestroyPlatform.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T00:07:51.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GravityController.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\Gravitas\\Assets\\GravityController.cs",
+              "RelativeDocumentMoniker": "Assets\\GravityController.cs",
+              "ToolTip": "D:\\Unity\\Projects\\Gravitas\\Assets\\GravityController.cs",
+              "RelativeToolTip": "Assets\\GravityController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T21:44:01.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ThirdPersonCameraController.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\Gravitas\\Assets\\ThirdPersonCameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\ThirdPersonCameraController.cs",
+              "ToolTip": "D:\\Unity\\Projects\\Gravitas\\Assets\\ThirdPersonCameraController.cs",
+              "RelativeToolTip": "Assets\\ThirdPersonCameraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T20:54:43.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\Gravitas\\Assets\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\GameManager.cs",
+              "ToolTip": "D:\\Unity\\Projects\\Gravitas\\Assets\\GameManager.cs",
+              "RelativeToolTip": "Assets\\GameManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAACYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T20:49:10.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameOver.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\Gravitas\\Assets\\GameOver.cs",
+              "RelativeDocumentMoniker": "Assets\\GameOver.cs",
+              "ToolTip": "D:\\Unity\\Projects\\Gravitas\\Assets\\GameOver.cs",
+              "RelativeToolTip": "Assets\\GameOver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T03:49:15.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HologramPreview.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\Gravitas\\Assets\\HologramPreview.cs",
+              "RelativeDocumentMoniker": "Assets\\HologramPreview.cs",
+              "ToolTip": "D:\\Unity\\Projects\\Gravitas\\Assets\\HologramPreview.cs",
+              "RelativeToolTip": "Assets\\HologramPreview.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAADwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T21:20:50.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\Gravitas\\Assets\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerController.cs",
+              "ToolTip": "D:\\Unity\\Projects\\Gravitas\\Assets\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\PlayerController.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAswM8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T20:05:25.903Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
