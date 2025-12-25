@@ -1,4 +1,4 @@
-# Gravitas Unity-Project-Assignment
+# Gravitas Unity-Project-Assignment(Unity v6)
 It is a game about bending gravity and collecting orbs
 
 A Unity-based gravity manipulation puzzle game where the player must collect all cubes by changing gravity within a 2-minute time limit.
