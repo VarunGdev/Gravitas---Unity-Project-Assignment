@@ -5,8 +5,8 @@ A Unity-based gravity manipulation puzzle game where the player must collect all
 Built using the provided base project assets with focus on clean code and gameplay logic.
 
 🎮 Controls
-W / A / S / D – Move
-Space – Jump
+W / A / S / D – Move <br>
+Space – Jump <br>
 Hold E and Arrow Keys – Preview gravity direction
 
 <img width="683" height="559" alt="Screenshot 2025-12-25 142013" src="https://github.com/user-attachments/assets/401f7f0f-5a20-4504-99c8-53df531fba37" />
