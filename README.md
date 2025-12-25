@@ -11,23 +11,23 @@ Hold E and Arrow Keys – Preview gravity direction
 
 <img width="683" height="559" alt="Screenshot 2025-12-25 142013" src="https://github.com/user-attachments/assets/401f7f0f-5a20-4504-99c8-53df531fba37" />
 
-⭐ Features
-Gravity manipulation in multiple directions (no Rigidbody required)
-Hologram preview before applying gravity
-Third-person, gravity-aware camera
-Character animations (idle, run, jump, fall)
-Game over on timeout or free fall
+⭐ Features <br>
+Gravity manipulation in multiple directions (no Rigidbody required) <br>
+Hologram preview before applying gravity <br>
+Third-person, gravity-aware camera <br>
+Character animations (idle, run, jump, fall) <br>
+Game over on timeout or free fall <br>
 
 <img width="875" height="556" alt="Screenshot 2025-12-25 141956" src="https://github.com/user-attachments/assets/6b77b5c9-e69d-408d-b980-904ff444fc0d" />
 
-🛠 Setup
-Clone the repository
-Open the project in Unity Hub (same version as base project)
-Press Play to test
+🛠 Setup <br>
+Clone the repository <br>
+Open the project in Unity Hub <br>
+Press Play to test <br>
 
 <img width="1025" height="568" alt="Screenshot 2025-12-25 142041" src="https://github.com/user-attachments/assets/003df57b-3910-4560-9dbd-14e2118224bf" />
 
-🖥 Builds
+🖥 Builds <br>
 Standalone builds included for:
 Windows <br>
 Mac
