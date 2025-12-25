@@ -28,6 +28,6 @@ Press Play to test <br>
 <img width="1025" height="568" alt="Screenshot 2025-12-25 142041" src="https://github.com/user-attachments/assets/003df57b-3910-4560-9dbd-14e2118224bf" />
 
 🖥 Builds <br>
-Standalone builds included for:
+Standalone builds included for: <br>
 Windows <br>
 Mac
