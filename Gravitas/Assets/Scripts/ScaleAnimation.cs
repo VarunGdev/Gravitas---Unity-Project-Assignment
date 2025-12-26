@@ -2,9 +2,8 @@ using UnityEngine;
 
 public class ScaleAnimation : MonoBehaviour
 {
-    [Header("Scale Settings")]
-    public float scaleAmount = 1.1f;   // How big it grows
-    public float speed = 4f;           // Pulse speed
+    public float scaleAmount = 1.1f;  
+    public float speed = 4f;          
 
     private Vector3 startScale;
 

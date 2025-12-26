@@ -4,16 +4,10 @@ using TMPro;
 
 public class GameOver : MonoBehaviour
 {
-    [Header("Audio")]
     [SerializeField] private AudioClip gameOverSFX;
     [SerializeField] private AudioClip gameOverMusic;
-
-
-    [Header("UI")]
-    [SerializeField] private TMP_Text timerText; // Assign in Inspector
-
+    [SerializeField] private TMP_Text timerText; 
     [SerializeField] private Timer timer;
-
     [SerializeField] private GameObject GameplayUI;
 
     private AudioSource audioSource;
@@ -34,14 +28,12 @@ public class GameOver : MonoBehaviour
         {
             triggered = true;
             GameplayUI.SetActive(false);
-            // ⏱️ Show final time
+            
             if (timerText != null)
                 timerText.text = timer.Get();
 
-            // 🛑 Stop game + other SFX
             GameManager.GameOver();
 
-            // 🔊 Play audio
             StartCoroutine(PlayGameOverAudio());
         }
     }
@@ -53,7 +45,6 @@ public class GameOver : MonoBehaviour
             audioSource.clip = gameOverSFX;
             audioSource.loop = false;
             audioSource.Play();
-
             yield return new WaitForSecondsRealtime(gameOverSFX.length);
         }
 

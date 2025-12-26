@@ -2,7 +2,6 @@ using UnityEngine;
 
 public class DestroyPlatform : MonoBehaviour
 {
-    [Header("Shrink Settings")]
     [SerializeField] private float shrinkDuration;
     [SerializeField] private Vector3 minScale = new Vector3(0.1f, 0.1f, 0.1f);
     [SerializeField] private float destroyDelay = 0.1f;

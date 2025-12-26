@@ -3,11 +3,8 @@ using TMPro;
 
 public class Timer : MonoBehaviour
 {
-    [Header("UI")]
     [SerializeField] private TextMeshProUGUI timerText;
-    [Header("Timer Settings")]
     [SerializeField] private float timeSpeed = 2f;
-
     private float elapsedTime;
 
     void Start()
@@ -26,7 +23,6 @@ public class Timer : MonoBehaviour
     {
         int minutes = Mathf.FloorToInt(elapsedTime / 60f);
         int seconds = Mathf.FloorToInt(elapsedTime % 60f);
-
         timerText.text = $"{minutes:00}:{seconds:00}";
     }
 

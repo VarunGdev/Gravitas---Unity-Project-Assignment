@@ -3,24 +3,18 @@ using UnityEngine;
 public class GameManager : MonoBehaviour
 {
     public static GameManager Instance;
-
     public static bool isGameOver;
-
     [SerializeField] private GameObject gameOverScreen;
 
     void Awake()
-    {
-        // Singleton setup
+    { 
         if (Instance != null && Instance != this)
         {
             Destroy(gameObject);
             return;
         }
-
         Instance = this;
-
         isGameOver = false;
-
         if (gameOverScreen != null)
             gameOverScreen.SetActive(false);
 
@@ -30,7 +24,6 @@ public class GameManager : MonoBehaviour
     public static void GameOver()
     {
         if (isGameOver) return;
-
         isGameOver = true;
 
         if (Instance.gameOverScreen != null)
@@ -44,7 +37,6 @@ public class GameManager : MonoBehaviour
 
         Cursor.lockState = CursorLockMode.None;
         Cursor.visible = true;
-
         Time.timeScale = 0f;
     }
 }

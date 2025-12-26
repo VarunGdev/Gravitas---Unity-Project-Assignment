@@ -11,9 +11,8 @@ public class ThirdPersonCameraController : MonoBehaviour
 
     float currentX;
     float currentY;
-    public float currentZ; // Camera roll from gravity
+    public float currentZ;
 
-    [Header("Collision")]
     public LayerMask collisionLayers = ~0;
     public float collisionRadius = 0.3f;
     public float collisionOffset = 0.2f;
@@ -44,6 +43,7 @@ public class ThirdPersonCameraController : MonoBehaviour
         float targetDistance = direction.magnitude;
 
         RaycastHit hit;
+        
         if (Physics.SphereCast(lookAt.position, collisionRadius, direction.normalized, out hit, targetDistance, collisionLayers))
         {
             desiredPosition = hit.point - direction.normalized * collisionOffset;
@@ -58,14 +58,12 @@ public class ThirdPersonCameraController : MonoBehaviour
         currentZ = zAngle;
     }
 
-    // 🔒 Cursor control
     void LockCursor()
     {
         Cursor.lockState = CursorLockMode.Locked;
         Cursor.visible = false;
     }
 
-    // Optional: press ESC to unlock cursor
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.Escape))

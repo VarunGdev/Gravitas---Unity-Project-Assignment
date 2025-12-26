@@ -7,14 +7,13 @@ public class StartGame : MonoBehaviour
     public AudioSource audioSource;
     public AudioSource audioSource2;
 
-
     void Start()
     {
         GameplayUI.SetActive(false);
         Cursor.visible = true;
         Cursor.lockState = CursorLockMode.None;
         startScreen.SetActive(true);
-        Time.timeScale = 0f; // pause game at start
+        Time.timeScale = 0f; 
 
     }
 
@@ -26,9 +25,7 @@ public class StartGame : MonoBehaviour
         Cursor.lockState = CursorLockMode.Locked;
         startScreen.SetActive(false);
         GameplayUI.SetActive(true);
-        Time.timeScale = 1f; // resume game
+        Time.timeScale = 1f; 
     }
-
-
 
 }
